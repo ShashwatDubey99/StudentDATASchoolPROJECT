@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "first_name": "Shashwat",
+      "last_name": "Dubey",
+      "current_class": "XI A",
+      "Roll_No.": 30,
+      "marks": {
+        "CS": 50,
+        "Maths": 50,
+        "Physics": 50,
+        "Yoga": 50,
+        "English": 50
+      },
+      "Email": "dubeyshashwat@gmail.com",
+      "Mobile": 9131545582
+    },
+    {
+      "id": 2,
+      "first_name": "Aishwary",
+      "last_name": "Shukla",
+      "current_class": "XI A",
+      "Roll_No.": 5,
+      "marks": {
+        "CS": 50,
+        "Maths": 50,
+        "Physics": 50,
+        "Yoga": 50,
+        "English": 50
+      },
+      "Email": "aishwaryraj@gmail.com",
+      "Mobile": 9648275745
+    },
+    {
+      "id": 3,
+      "first_name": "Aryan Jhariya",
+      "last_name": "",
+      "current_class": "XI A",
+      "Roll_No.": 55,
+      "marks": {
+        "CS": 50,
+        "Maths": 50,
+        "Physics": 50,
+        "Yoga": 50,
+        "English": 50
+      },
+      "Email": "aryan@hotmail.com",
+      "Mobile": 5768946454
+    }
+  ]
+}
